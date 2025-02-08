@@ -48,7 +48,7 @@
   "lint-staged": {
     "*.ts": [
       "eslint --fix --no-cache",
-      "prettier --write",
+      "prettier --write"
     ]
   }
 }
