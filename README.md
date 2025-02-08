@@ -7,7 +7,7 @@
 
 Cautious Broccoli is a lightweight, TypeScript-based batch processing framework inspired by Spring Batch. It provides a robust foundation for building batch applications with features like chunk processing, retry mechanisms, and modular job execution.
 
-![Cautious Broccoli Logo](./img/cautious-broccoli-logo.png)
+![Cautious Broccoli Logo](./img/cautious.webp)
 
 ## Features
 
