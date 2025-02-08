@@ -28,5 +28,5 @@ jobs:
       - name: Run Tests
         run: npm test
 
-      - name: Rollup
-        run: npm run rollup
+      - name: Build
+        run: npm run build
